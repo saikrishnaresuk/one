@@ -4,11 +4,8 @@
 </head>
 <body>
 	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
-	<h1 style="color: red; font-size: 40px;" align="center">THIS IS APP DEPLOYMENT USING TOMCAT</h1>
-	<h1 style="color: green; font-size: 40px;" align="center">234567890</h1>
-	<h1 style="color: pink; font-size: 40px;" align="center">WE SUCCESSFULLY DEPLOYED APPLICATION IN TOMCAT</h1>
-        <h1 style="color: red; font-size: 40px;" align="center">WE SUCCESSFULLY INTEGRATED NEXUS</h1>
-
+	<h1 style="color: red; font-size: 40px;" align="center">We successfully Implemented Master-slave architecture</h1>
+	
 
 
 	
